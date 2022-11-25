@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarikaPillutla45777
+- 👋 Hi, I’m @HarikaPillutla4577
 - 👀 I’m interested in Data Scientist,ML Engineer
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects
